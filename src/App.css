@@ -12,4 +12,8 @@
   .btn-outline {
     @apply bg-white text-primary-green
   }
+
+  .form-input {
+    @apply w-full h-10 !rounded-md p-4 !mb-3
+  }
 }
